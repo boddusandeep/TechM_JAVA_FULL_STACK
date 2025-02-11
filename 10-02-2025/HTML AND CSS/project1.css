@@ -1,0 +1,42 @@
+body {
+     background-color: beige;
+    
+  }
+  #img1{
+   
+     align-self:center;
+     image-rendering: crisp-edges;
+     padding: 25px;
+      padding-left: 400px;
+     border-radius: 15px;
+     border-color: rgb(60, 172, 22);
+  }
+
+.code1{
+    text-align:center;
+    color:rgb(239, 237, 247);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    font-size:30px;
+    border: 20px;
+    background-color: blue;
+    
+}
+.code2{
+   
+    color:rgb(166, 96, 96);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 20px;
+}
+.code3{
+ 
+    border-color: black ;
+    font-family: 'Times New Roman', Times, serif;
+    box-shadow: 15px;
+    margin: 20px;
+    text-align: start;
+    margin: 15px;
+    padding: 20px;
+
+}
+ 
