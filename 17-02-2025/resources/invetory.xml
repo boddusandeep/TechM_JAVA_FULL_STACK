@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" "http://www.springframework.org/dtd/spring-beans.dtd">
+
+<beans>
+<bean id="idq" class="Task3.Inventory_class">
+ 
+ 
+ <constructor-arg value="100"  type="int"></constructor-arg>
+ <constructor-arg value="10"  type="int"></constructor-arg>
+<constructor-arg value="electronics"></constructor-arg>
+ 
+
+</bean>
+</beans>

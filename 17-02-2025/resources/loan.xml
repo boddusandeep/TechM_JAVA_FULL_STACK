@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" "http://www.springframework.org/dtd/spring-beans.dtd">
+
+<beans>
+ <bean id="loan" class="Task2.Loan_Class">
+
+<property name="loanType">
+<value>HouseLoan</value>
+</property>
+
+<property name="loanAmount">
+<value>850000</value>
+</property>
+
+<property name="interestRate">
+    <value>5.0</value>
+</property>
+
+
+</bean>
+</beans>
